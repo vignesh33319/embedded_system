@@ -1,0 +1,150 @@
+* {
+  background: #fbfbfb;
+}
+
+.em_title {
+  font-size: 35px;
+  text-shadow: 2px 2px 5px red;
+  text-decoration: rgb(209, 206, 206);
+  text-align: center;
+  text-justify: center;
+  letter-spacing: 2px;
+}
+.em_tit {
+  top: 0;
+  left: 0;
+  padding: 0.5rem 25%;
+  background: rgb(209, 206, 206);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.system_head {
+  font-size: 40px;
+}
+.system {
+  display: inline-flex;
+}
+.system_par {
+  text-indent: 3cm;
+  width: 70%;
+  font-size: 30px;
+}
+.system_img {
+  display: inline-flex;
+  width: 20cm;
+  height: 10cm;
+}
+.embedded_par {
+  text-indent: 3cm;
+
+  font-size: 30px;
+}
+.embedded_head {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline double red;
+  letter-spacing: 2.5px;
+  margin-top: 1.5cm;
+  margin-bottom: 1.5cm;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.embedded_img {
+  justify-content: center;
+  align-items: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.com_li {
+  font-size: 1cm;
+}
+.embedded_section ul,
+li {
+  font-size: 25px;
+}
+.embedded_section h4 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.ex_em {
+  font-size: 30px;
+  color: #4f085a;
+  margin-right: 10px;
+}
+.embed_par {
+  font-size: 0.65cm;
+}
+.chara_head {
+  letter-spacing: 2.5px;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline double red;
+  margin-top: 1.5cm;
+  margin-bottom: 1.5cm;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.cha_li {
+  font-size: 35px;
+}
+.cha_par {
+  font-size: 20px;
+  text-indent: 3cm;
+}
+.characteristics_img2 {
+  margin-left: 30%;
+
+  justify-content: center;
+  display: block;
+  align-items: center;
+  width: 15cm;
+  height: 10cm;
+}
+.ces_head {
+  color: #e15819;
+}
+.characteristics_img {
+  float: right;
+  height: 20cm;
+  width: 15cm;
+}
+.embed_advan {
+  font-size: 35px;
+  text-decoration: underline;
+}
+.embed_para {
+  font-size: 30px;
+}
+.bses_heading {
+  letter-spacing: 3px;
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline double red;
+  margin-top: 1.5cm;
+  margin-bottom: 1.5cm;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.bses p {
+  font-size: 20px;
+}
+.bses_img {
+  justify-content: center;
+  height: 12cm;
+  align-items: center;
+  width: 35cm;
+}
+.bses_li {
+  text-indent: 1cm;
+  margin-top: 0.3cm;
+  margin-bottom: 0.25cm;
+}
+.bses_head {
+  text-decoration: underline;
+  color: #526b14;
+}
+.bses p {
+  text-indent: 2cm;
+  font-size: 25px;
+}
